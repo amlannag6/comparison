@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+:root {
+  --font: "Poppins", sans-serif;
+}
+
+body,
+html {
+  font-family: var(--font) !important;
+}
+
+.main-form {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 30px 20px;
+  border-radius: 10px;
+}
